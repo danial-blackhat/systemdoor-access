@@ -1,0 +1,39 @@
+
+//-------------------------------------------------------------------------------//
+//------------------------Welcome To Instruction Manual--------------------------//
+//-------------------------------------------------------------------------------//
+
+1.Install .zip file from my Github Platform & Extract the zip file
+
+
+2. Download ArduinoIDE Software from Browser/Microsoft Store/Mac AppStore
+   Link Source: https://www.arduino.cc/en/software/
+
+3. Setup the Software
+
+
+4. Open Application- Open Sketch - (locate the file where you unzipped) -
+   Verify the code - Compile to your board 
+
+
+Disclaimer: This project is for learning and research purposes only. 
+An Access Door Lock System using RFID and open source hardware (such as Arduino, 
+NodeMCU or ESP32) is developed to provide a basic understanding of 
+access control technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------// Code By Wan Muhammad Danial B Mohammad Fariq//-------------
+
